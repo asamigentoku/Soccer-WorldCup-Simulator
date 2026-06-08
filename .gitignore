@@ -96,3 +96,7 @@ htmlcov/
 *.zip
 *.tar.gz
 *.rar
+
+
+CLAUDE.md
+AGENT.md
